@@ -1,0 +1,21 @@
+{
+  "name": "willfreee — Open Guides for Lasting Freedom",
+  "short_name": "willfreee",
+  "description": "Open-source psychological guidebooks based on Allen Carr's Easyway methodology.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0A2540",
+  "theme_color": "#0A2540",
+  "icons": [
+    {
+      "src": "./assets/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
