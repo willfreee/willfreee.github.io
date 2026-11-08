@@ -1,112 +1,112 @@
 [
   {
-    "slug": "quit-reaction",
-    "title": "The Easy Way to Quit Reacting",
+    "slug": "reaction",
+    "dependency": "Emotional Reactivity",
     "tagline": "Discover the quiet relief of having nothing to defend and the effortless peace of an unshakeable mind."
   },
   {
     "slug": "endless-preparation",
-    "title": "The Easy Way to Quit Endless Preparation",
+    "dependency": "Endless Preparation",
     "tagline": "Dissolve the fear of starting and discover the quiet confidence that you already have everything you need."
   },
   {
     "slug": "news-addiction",
-    "title": "The Easy Way to Quit News Addiction",
+    "dependency": "News Addiction",
     "tagline": "See through the illusion of 24/7 crisis awareness and rediscover the profound peace of a calm, grounded mind."
   },
   {
-    "slug": "stop-binge-watching",
-    "title": "The Easy Way to Stop Binge-Watching",
+    "slug": "binge-watching",
+    "dependency": "Binge-Watching",
     "tagline": "Understand the subtle mechanics of cliffhangers and autoplay, and effortlessly enjoy entertainment on your own terms without fatigue."
   },
   {
-    "slug": "stop-snapping-back",
-    "title": "The Easy Way to Stop Snapping Back",
+    "slug": "snapping-back",
+    "dependency": "Snapping Back & Defensiveness",
     "tagline": "Release the sudden reflex to defend yourself and discover the quiet confidence of staying grounded and composed in any conversation."
   },
   {
     "slug": "fear-of-rejection",
-    "title": "The Easy Way to Stop Fearing Rejection",
+    "dependency": "Fear of Rejection",
     "tagline": "Unmask the illusion of external validation and step into the effortless freedom of unconditional self-trust."
   },
   {
-    "slug": "quit-procrastinating",
-    "title": "The Easy Way to Stop Procrastinating",
+    "slug": "procrastination",
+    "dependency": "Procrastination",
     "tagline": "Escape the hidden weight of delay and experience the light, enjoyable momentum of action without dread."
   },
   {
-    "slug": "quit-video-game",
-    "title": "The Easy Way to Stop Video Gaming",
+    "slug": "video-game",
+    "dependency": "Video Games",
     "tagline": "Understand how game loops hook your natural drive, and effortlessly reclaim your time and passion without feeling deprived."
   },
   {
-    "slug": "quit-compulsive-eating",
-    "title": "The Easy Way to Stop Compulsive Eating",
+    "slug": "compulsive-eating",
+    "dependency": "Compulsive Eating",
     "tagline": "Unwind the emotional food trap and rediscover the pure, unburdened pleasure of eating naturally without guilt."
   },
   {
-    "slug": "quit-codependency-and-love-addiction",
-    "title": "The Easy Way to Quit Codependency and Love Addiction",
+    "slug": "codependency-and-love-addiction",
+    "dependency": "Codependency & Love Addiction",
     "tagline": "Release the exhausting burden of people-pleasing and discover the grounded peace of being whole within yourself."
   },
   {
-    "slug": "stop-overthinking",
-    "title": "The Easy Way to Stop Overthinking",
+    "slug": "overthinking",
+    "dependency": "Overthinking",
     "tagline": "Gently step out of repetitive mental loops and discover the immense clarity of a calm, unburdened mind."
   },
   {
-    "slug": "breaking-the-applause-trap",
-    "title": "Breaking the Applause Trap",
+    "slug": "applause-trap",
+    "dependency": "The Applause Trap",
     "tagline": "Unhook your peace of mind from other people's opinions and experience the deep relief of simply being yourself."
   },
   {
     "slug": "productivity-trap",
-    "title": "The Easy Way to Escape the Productivity Trap",
+    "dependency": "The Productivity Trap",
     "tagline": "Release the guilt of slowing down and discover the effortless energy that comes from genuine rest."
   },
   {
     "slug": "escapist-fiction",
-    "title": "The Easy Way to Quit Escapist Fiction",
+    "dependency": "Escapist Fiction",
     "tagline": "Understand the pull of fictional worlds and gently channel your natural imagination back into your own life."
   },
   {
-    "slug": "stop-buying-things-you-dont-need",
-    "title": "The Easy Way to Stop Buying Things You Don't Need",
+    "slug": "buying-things-you-dont-need",
+    "dependency": "Compulsive Buying",
     "tagline": "See through manufactured urgency and experience the lasting satisfaction of wanting what you already have."
   },
   {
-    "slug": "quit-junkfood",
-    "title": "The Easy Way to Quit Junk Food",
+    "slug": "junkfood",
+    "dependency": "Junk Food",
     "tagline": "Understand how hyper-processed foods trick your tastebuds, and enjoy wholesome food without any sense of sacrifice."
   },
   {
-    "slug": "social-media-addiction",
-    "title": "The Easy Way to Quit Social Media Addiction",
+    "slug": "social-media",
+    "dependency": "Social Media Addiction",
     "tagline": "Understand the psychology of the infinite feed and naturally reclaim your presence, focus, and peace of mind."
   },
   {
     "slug": "youtube-addiction",
-    "title": "The Easy Way to Quit YouTube Addiction",
+    "dependency": "YouTube Addiction",
     "tagline": "Gently break the autoplay loop and effortlessly redirect your precious time toward the things that truly matter to you."
   },
   {
-    "slug": "quit-hentai",
-    "title": "The Easy Way to Quit Hentai",
+    "slug": "hentai",
+    "dependency": "Hentai",
     "tagline": "Understand how supernormal stimuli affect the brain, let go of guilt, and naturally restore real presence and vitality."
   },
   {
-    "slug": "quit-gambling",
-    "title": "The Easy Way to Quit Gambling & Financial Speculation",
+    "slug": "gambling",
+    "dependency": "Gambling & Financial Speculation",
     "tagline": "Understand the psychological trap of chance and speculation, and walk away with genuine peace and permanent relief."
   },
   {
     "slug": "burgeon",
-    "title": "Burgeon",
+    "dependency": "Pornography",
     "tagline": "True freedom comes from understanding: leave pornography behind effortlessly, without willpower, shame, or struggle."
   },
   {
-    "slug": "semen-retention-guide",
-    "title": "A Practical Guide to Semen Retention After Pornography",
+    "slug": "semen-retention",
+    "dependency": "Vitality Depletion After Pornography",
     "tagline": "A supportive roadmap to channeling your renewed vitality, clear focus, and natural confidence."
   }
 ]
